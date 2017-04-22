@@ -82,7 +82,7 @@ class CustomPreloader extends FlxBasePreloader
 	override public function onLoaded()
 	{
 		super.onLoaded();
-		_loaded = false;
+		//_loaded = false;
 	}
 
 	
